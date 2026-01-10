@@ -1,2 +1,2 @@
 //fazendo ele descer
-vspeed=6
+vspeed=5

@@ -18,5 +18,5 @@ if(tiro&&coldown==0)
 {
 instance_create_layer(obj_player.x-4,obj_player.y,"Player",obj_projetil_player)
 //espera 1 segundo para atirar
-coldown=room_speed*0.5
+coldown=room_speed*0.3
 }
