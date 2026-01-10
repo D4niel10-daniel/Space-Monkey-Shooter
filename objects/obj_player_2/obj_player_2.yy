@@ -38,8 +38,8 @@
     "path":"sprites/spr_player_2/spr_player_2.yy",
   },
   "spriteMaskId":{
-    "name":"spr_player_2",
-    "path":"sprites/spr_player_2/spr_player_2.yy",
+    "name":"spr_player_1",
+    "path":"sprites/spr_player_1/spr_player_1.yy",
   },
   "visible":true,
 }

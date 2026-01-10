@@ -26,5 +26,5 @@ instance_destroy()
 }
 if(vida==0&&!instance_exists(obj_player_2))
 {
-room_restart()
+game_end()
 }
