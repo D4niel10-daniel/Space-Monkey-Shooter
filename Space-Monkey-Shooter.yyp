@@ -10,6 +10,7 @@
   },
   "defaultScriptType":1,
   "Folders":[
+    {"$GMFolder":"","%Name":"Fontes","folderPath":"folders/Fontes.yy","name":"Fontes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Level","folderPath":"folders/Objects/Level.yy","name":"Level","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Players","folderPath":"folders/Objects/Players.yy","name":"Players","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -27,6 +28,7 @@
   },
   "name":"Space-Monkey-Shooter",
   "resources":[
+    {"id":{"name":"fnt_geral","path":"fonts/fnt_geral/fnt_geral.yy",},},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
     {"id":{"name":"obj_meteoro","path":"objects/obj_meteoro/obj_meteoro.yy",},},
     {"id":{"name":"obj_player_2","path":"objects/obj_player_2/obj_player_2.yy",},},
