@@ -27,6 +27,7 @@
   },
   "name":"Space-Monkey-Shooter",
   "resources":[
+    {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_solido","path":"objects/obj_solido/obj_solido.yy",},},
     {"id":{"name":"rm_fase","path":"rooms/rm_fase/rm_fase.yy",},},
