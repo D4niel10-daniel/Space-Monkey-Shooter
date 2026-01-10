@@ -28,10 +28,13 @@
   "name":"Space-Monkey-Shooter",
   "resources":[
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
+    {"id":{"name":"obj_meteoro","path":"objects/obj_meteoro/obj_meteoro.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_projetil_player","path":"objects/obj_projetil_player/obj_projetil_player.yy",},},
     {"id":{"name":"obj_solido","path":"objects/obj_solido/obj_solido.yy",},},
+    {"id":{"name":"obj_spaw_meteoro","path":"objects/obj_spaw_meteoro/obj_spaw_meteoro.yy",},},
     {"id":{"name":"rm_fase","path":"rooms/rm_fase/rm_fase.yy",},},
+    {"id":{"name":"spr_meteoro","path":"sprites/spr_meteoro/spr_meteoro.yy",},},
     {"id":{"name":"spr_player_1","path":"sprites/spr_player_1/spr_player_1.yy",},},
     {"id":{"name":"spr_projetil_player","path":"sprites/spr_projetil_player/spr_projetil_player.yy",},},
     {"id":{"name":"spr_solido","path":"sprites/spr_solido/spr_solido.yy",},},
