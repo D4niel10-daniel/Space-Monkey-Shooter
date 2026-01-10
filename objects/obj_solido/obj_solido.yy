@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player",
+  "%Name":"obj_solido",
   "eventList":[],
   "managed":true,
-  "name":"obj_player",
+  "name":"obj_solido",
   "overriddenProperties":[],
   "parent":{
-    "name":"Players",
-    "path":"folders/Objects/Players.yy",
+    "name":"Level",
+    "path":"folders/Objects/Level.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,13 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_player_1",
-    "path":"sprites/spr_player_1/spr_player_1.yy",
-  },
-  "spriteMaskId":{
-    "name":"spr_player_1",
-    "path":"sprites/spr_player_1/spr_player_1.yy",
-  },
+  "spriteId":null,
+  "spriteMaskId":null,
   "visible":true,
 }
