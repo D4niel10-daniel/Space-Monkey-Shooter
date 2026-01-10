@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_solido",
+    "path":"sprites/spr_solido/spr_solido.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
